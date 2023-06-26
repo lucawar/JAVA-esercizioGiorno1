@@ -29,6 +29,7 @@ public class Main {
 		concatenaStringa(name, cognome, citta);
 		
 		//ESERCIZIO 4
+		//commnto a caso
 		
 		//INPUT CALCOLO AREA RETTANGOLO
         System.out.println("Inserisci la lunghezza del rettangolo");
